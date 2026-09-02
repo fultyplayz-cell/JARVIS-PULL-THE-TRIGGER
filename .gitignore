@@ -22,3 +22,7 @@ memory/*.json
 Thumbs.db
 desktop.ini
 *.bak
+.venv/
+__pycache__/
+*.pyc
+.env
